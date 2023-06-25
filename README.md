@@ -1,2 +1,2 @@
 # netflix-LandingPage-Clone
-cloned Netflix landing page using HTML CSS Bootstrap JavaScript
+cloned Netflix Türkiye landing page using HTML CSS Bootstrap JavaScript
